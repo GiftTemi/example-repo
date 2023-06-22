@@ -1,3 +1,3 @@
-#. Example Read me
+# Example Read me
 
 Hello World!
